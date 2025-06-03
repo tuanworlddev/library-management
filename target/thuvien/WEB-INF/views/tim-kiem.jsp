@@ -21,7 +21,7 @@
             <!-- Bảng kết quả -->
             <c:if test="${not empty danhSachKhachHang}">
                 <div class="table-responsive">
-                    <table class="table table-border table-striped align-middle">
+                    <table class="table table-bordered table-striped align-middle">
                         <thead class="text-center">
                         <tr>
                             <th rowspan="2" class="align-middle">Mã KH</th>
